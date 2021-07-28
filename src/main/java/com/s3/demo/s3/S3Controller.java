@@ -26,7 +26,7 @@ import java.io.IOException;
 @RestController
 public class S3Controller {
 
-    //合并分支测试
+    //合并分支测试gfxdev
     // 【你的 access_key】
     static final String AWS_ACCESS_KEY = "XXXXX";
     // 【你的 aws_secret_key】
