@@ -26,7 +26,7 @@ import java.io.IOException;
 @RestController
 public class S3Controller {
     // 【你的 access_key】
-    static final String AWS_ACCESS_KEY = "XXX";
+    static final String AWS_ACCESS_KEY = "XXXX";
     // 【你的 aws_secret_key】
     static final String AWS_SECRET_KEY = " XXX";
     // 储存桶的名称
