@@ -28,7 +28,7 @@ public class S3Controller {
     // 【你的 access_key】
     static final String AWS_ACCESS_KEY = "XXXX";
     // 【你的 aws_secret_key】
-    static final String AWS_SECRET_KEY = " XXX";
+    static final String AWS_SECRET_KEY = " XXXX";
     // 储存桶的名称
     static final String BUCKET_NAME = "XXX";
     // 设置服务器所属地区
